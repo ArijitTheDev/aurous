@@ -9,10 +9,11 @@ const config = {
   title: 'Aurous',
   tagline: 'A Multipurpose Discord Bot',
   url: 'https://www.github.com',
-  baseUrl: '/',
+  baseUrl: '/aurous',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  deploymentBranch: 'gh-pages',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
